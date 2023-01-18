@@ -1,0 +1,26 @@
+{
+  "id": "c1s6",
+  "text": {
+    "de": "Du tastest dich den dunklen Flur entlang. Schritt für Schritt geht es voran. Am Ende des Flurs warten das Badezimmer und eine Abstellkammer. In der Abstellkammer liegt alles Mögliche. Vielleicht lässt sich ja dort irgendwas finden. Mittlerweile bekommst du ein wenig Angst. Du weißt nicht, wieso niemand dir antwortet und wo alle hin gegangen sind. <br /><br /> Der Wind draußen wird stärker, und langsam erfüllt das Heulen und Rütteln der Bretter das Haus. Plätzlich hörst du wie sich etwas die Treppe hinter dir hochbewegt. Die Treppenstufen ächzen, immer und immer lauter. Irgendwas wird die Treppenstufen hochgeschleift. Wieder und wieder folgen dumpfe Schläge auf das Treppenholz. Du musst hier weg. Eilig machst du die letzten Schritte zum Ende des Flors. Vor dir ist jetzt die Tür zur Abstellkammer, den Gang links entlang das Badezimmer. Die Abstellkammer ist ziemlich eng, aber bis zum Badezimmer ist es noch etwas weiter. Vermutlich hast du die Zeit nicht mehr. Du hörst, wie hinter dir etwas an die Spitze des Treppengeländers greift.",
+    "en": ""
+  },
+  "choices": [
+    {
+      "text": {
+        "de": "In die Abstellkammer zwängen",
+        "en": ""
+      },
+      "target": "c1s6a",
+      "chapter": "chapter1",
+      "achievement": "ending1"
+    },
+    {
+      "text": {
+        "de": "Zum Badezimmer laufen",
+        "en": ""
+      },
+      "target": "c1s6b",
+      "chapter": "chapter1"
+    }
+  ]
+}

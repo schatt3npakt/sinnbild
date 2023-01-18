@@ -1,0 +1,17 @@
+{
+  "id": "c1s8b",
+  "text": {
+    "de": "Du läufst zur Tür und schaust in das Zimmer hinein. Auf den ersten Blick scheint nichts ungewöhnlich.",
+    "en": ""
+  },
+  "choices": [
+    {
+      "text": {
+        "de": "Weiter",
+        "en": ""
+      },
+      "target": "c1s8b",
+      "chapter": "chapter1"
+    }
+  ]
+}

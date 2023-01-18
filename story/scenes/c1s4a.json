@@ -1,0 +1,17 @@
+{
+  "id": "c1s4a",
+  "text": {
+    "de": "Du holst Luft und rufst nach deinen Eltern. Niemand antwortet. Warum antwortet dir niemand? Langsam machst du dir ein wenig Sorgen. Du rufst nochmal, diesmal etwas lauter. Dieses Mal hörst du Geräusche von unten. Ein leises, metallisches Kratzen. Schwere Schritte auf dem Holzboden im Wohnzimmer. Dann ist alles wieder ruhig. Vielleicht war es doch keine gute Idee zu rufen?",
+    "en": ""
+  },
+  "choices": [
+    {
+      "text": {
+        "de": "Weiter",
+        "en": ""
+      },
+      "target": "c1s4",
+      "chapter": "chapter1"
+    }
+  ]
+}

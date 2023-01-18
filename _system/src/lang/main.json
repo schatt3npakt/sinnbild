@@ -1,0 +1,34 @@
+{
+  "chooseYourLanguage": {
+    "de": "Wähle deine Sprache",
+    "en": "Choose your language"
+  },
+  "mainMenu": {
+    "de": "Hauptmenü",
+    "en": "Main menu"
+  },
+  "beginStory": {
+    "de": "Beginne die Geschichte",
+    "en": "Begin story"
+  },
+  "continueFrom": {
+    "de": "Geschichte fortsetzen: ",
+    "en": "Continue from: "
+  },
+  "chapterSelection": {
+    "de": "Kapitelauswahl",
+    "en": "Chapter selection"
+  },
+  "wiki": {
+    "de": "Wiki",
+    "en": "Wiki"
+  },
+  "aboutThisProject": {
+    "de": "Über dieses Projekt",
+    "en": "About this project"
+  },
+  "achievements": {
+    "de": "Errungenschaften",
+    "en": "Achievements"
+  }
+}

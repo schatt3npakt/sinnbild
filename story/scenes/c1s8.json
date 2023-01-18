@@ -1,0 +1,25 @@
+{
+  "id": "c1s8",
+  "text": {
+    "de": "Du klebst das Pflaster auf deine Stirn und fühlst dich ein wenig besser. Aber eine Taschenlampe hast du noch nicht gefunden. Nichtmal ein paar Kerzen. Aber die Schere kännte dir noch nützlich sein... Du schnappst sie dir und überlegst deine nächsten Schritte. Viel kannst du im Badezimmer nicht machen. Und auch wenn es dich nicht begeistert, du wirst wohl auf den Flur hinaus und irgendwie versuchen müssen, sehr vorsichtig die Treppe runterzukommen. Unten sind vielleicht deine Eltern, oder zumindest das Telefon, mit dem du Hilfe holen kannst. Du schaust dich noch einmal im Badezimmer um und gehst dann leise aus der Tür. <br /><br /> Als du an der Abstellkammer ankommst, siehst du, dass sie vollkommen zertrümmert ist. Die Holztür wurde wohl mit aller Kraft mehrmals eingeschlagen. Verschiedene Reinigungsmittel und Pulver breiten sich unter dem Haufen aus Schutt und Splittern aus. Mit ziemlicher Sicherheit wurde alles, was in dem Schrank war, zerstört. Ausserdem würde das Rumwühlen in den Trümmern wohl ziemlich viel Lärm verursachen. Du wendest dich ab und drehst dich nach rechts – und siehst ein Licht aus dem Zimmer deiner Eltern kommen. Du huschst zurück hinter die Ecke. Deine Augen haben sich mitterweile schon so sehr an die Dunkelheit gewöhnt, dass das schwache Licht fast schon grell wirkt. Einen Moment lang beobachtest du die Tür. Scheinbar tut sich nichts, du hörst keine Geräusche, kein Wispern, erst recht kein lautes Stampfen. Leise bewegst du dich zur Tür, die Schere fest umklammert. Du hältst inne – doch noch immer ist nichts zu hören. Zu deiner Rechten verliert sich das Licht der Tür in den dunklen Tiefen der Treppe.Die Tür zum Zimmer selbst ist weit geöffnet und versperrt dir die Sicht ins Zimmer. <br /><br /> Das Zimmer deiner Eltern hast du noch nicht untersucht. Du könntest aber auch versuchen, mit dem schwachen Licht die Treppe runterzugehen...",
+    "en": ""
+  },
+  "choices": [
+    {
+      "text": {
+        "de": "Ich laufe in das Zimmer",
+        "en": ""
+      },
+      "target": "c1s8b",
+      "chapter": "chapter1"
+    },
+    {
+      "text": {
+        "de": "Ich gehe die Treppe runter",
+        "en": ""
+      },
+      "target": "c1s8a",
+      "chapter": "chapter1"
+    }
+  ]
+}

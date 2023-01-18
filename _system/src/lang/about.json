@@ -1,0 +1,18 @@
+{
+  "aboutThisProject": {
+    "de": "Über dieses Projekt",
+    "en": "About this project"
+  },
+  "projectDescription": {
+    "de": "Lorem Ipsum Dolor Sit Amet",
+    "en": "Lorem Ipsum Dolor Sit Amet"
+  },
+  "contentWarning": {
+    "de": "Inhaltswarnungen",
+    "en": "Content warnings"
+  },
+  "contentWarningBody": {
+    "de": "Diese Geschichte behandelt Themen, die für manche Leser ungeeignet sein könnten:",
+    "en": "This story contains content which readers may be sensitive to, including:"
+  }
+}

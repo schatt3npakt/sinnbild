@@ -1,0 +1,24 @@
+{
+  "ending1": {
+    "id": "ending1",
+    "title": {
+      "de": "Ende 1 – Abstellkammer",
+      "en": ""
+    },
+    "description": {
+      "de": "Die Abstellkammer war wohl doch keine so gute Wahl.",
+      "en": ""
+    }
+  },
+  "ending2": {
+    "id": "ending2",
+    "title": {
+      "de": "Ende 2 – Dunkle Treppe",
+      "en": ""
+    },
+    "description": {
+      "de": "Du hast deinen Verstand auf der dunklen Treppe gelassen",
+      "en": ""
+    }
+  }
+}

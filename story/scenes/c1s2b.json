@@ -1,0 +1,17 @@
+{
+  "id": "c1s2b",
+  "text": {
+    "de": "Du kriegst wirklich keinen Bissen mehr runter. Stattdessen gehst du zum Fenster und schaust hinab auf die Straße. Es ist schon spät und draußen ist es bereits längst dunkel. Schnee bedeckt die Bürgersteige und schimmert im Licht der Straßenlaternen leicht orange. Wie schön, dass es mal an Weihnachten schneit. Du starrst noch eine Weile in den Schnee. Dann bemerkst du, dass eine Person auf dem Bürgersteig an eurem Haus vorbeiläuft ... und stehenbleibt. Langsam dreht sie den Kopf zu dir und schaut zu dir rauf. Sie trägt einen Mantel und einen altmodischen Hut... aber viel mehr lässt sich nicht erkennen. Das Gesicht ist nur ein schwarzer Fleck. Irgendwie wird dir die Sache unangenehm. Je länger du den Fremden anschaust, desto mehr beschleicht dich ein ungutes Gefühl. Du wendest dich ab und blickst in dein Zimmer. Wie lange deine Eltern wohl noch unten brauchen?",
+    "en": ""
+  },
+  "choices": [
+    {
+      "text": {
+        "de": "Weiter",
+        "en": ""
+      },
+      "target": "c1s3",
+      "chapter": "chapter1"
+    }
+  ]
+}

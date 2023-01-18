@@ -1,0 +1,25 @@
+{
+  "id": "c1s1",
+  "text": {
+    "de": "Bald ist es soweit. Aufgeregt läufst du in deinem Kinderzimmer auf und ab. Es ist Heiligabend, der 24. Dezember. Auf deinem Kalender ist der Tag schon lange dick eingekreist. Vor wenigen Minuten hast du dich noch mit Knödeln und Rotkohl vollgestopft, dann hast du es irgendwie die Treppe hochgeschafft, und jetzt musst du nur noch ein wenig warten. Draussen ist es dunkel und lautlos weht der Schnee an deinem Fenster vorbei. <br/><br/>Etwas schwerfällig stapfst du zum Spiegel und schaust dich an. Du darfst heute deinen Dinoanzug tragen! Stolz wedelst du mit deinem Schweif hin und her. Dabei fällt dein Blick auf den Adventskalender neben deiner Tür. Dreiundzwanzig Türchen wurden bereits weit aufgerissen. Nur das letzte Türchen wurde noch nicht geöffnet. Und eigentlich hast du ja auch schon zu Abend gegessen... Dein Blick bleibt an dem kleinen Türchen hängen.",
+    "en": ""
+  },
+  "choices": [
+    {
+      "text": {
+        "de": "Vielleicht kurz probieren...",
+        "en": ""
+      },
+      "target": "c1s2a",
+      "chapter": "chapter1"
+    },
+    {
+      "text": {
+        "de": "Nein, ich bin satt!",
+        "en": ""
+      },
+      "target": "c1s2b",
+      "chapter": "chapter1"
+    }
+  ]
+}

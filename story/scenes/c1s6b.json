@@ -1,0 +1,17 @@
+{
+  "id": "c1s6b",
+  "text": {
+    "de": "Du schaffst das! Schnell biegst du ab und nach links, in Richtung der Badezimmertür. Du versucht zu lauschen, kannst aber bei deinen Schritten nichts hören. Deine Hand ergreift die Klinke, drückt sie runter, und du stehst im Badezimmer. Hinter dir bewegt sich etwas schwerfällig auf das Badezimmer zu. Hektisch schaust du dich um. Rechts steht ein hoher Kleiderschrank mit Handtüchern, an der Wand daneben ist das Waschbecken und der Spiegel. Kein Versteck. In der linken Ecke ist die Toilette. Hinten rechts die Badewanne. Sie ist gefüllt mit pechschwarzem Wasser. <br /><br /> Ein lautes Kratzen an der Tür. Du hast keine Zeit mehr. Ohne weiter nachzudenken rennst du zu der Badewanne, ergreifst den Rand und steigst hinein. Das Wasser ist eiskalt und dringt in deinen Anzug ein. Mit jeder Sekunde wirfst du schwerer. Du sinkst tiefer. Deine Ohren, dein Mund, deine Nase werden zugedrückt. Du hörst das Blut durch deinen Kopf rauschen, deinen Herzschlag. Und ganz weit hörst du, wie eine Tür geöffnet wird. Du scheinst noch immer zu sinken. Die Geräusche der Oberfläche entfernen sich weiter, es wird dunkler. Langsam geht dir die Luft aus. Deine Lungen scheinen zu brennen und dein Hals scheint zerspringen zu wollen. Du versuchst mit den Armen zu rudern, doch sie schlagen ins Nichts. Du reißt die Augen auf und bist umgeben von vollkommener Schwärze. Keine Oberfläche ist in Sicht. Panik ergreift dich und der Schmerz in deiner Brust wird stärker. Du ruderst wild umher, suchst, aber du findest keinen Halt. Deine Zunge scheint anzuschwellen und drückt gegen das Innere deines Schädels. Du schreist, aber du spürst nur wie auch der letzte Rest Luft aus dir entweicht. Kalte, bittere Flüssigkeit füllt deinen Mund. Immer tiefer zieht die Kälte in deinen Körper. Und mit ihr lässt auch der Schmerz nach. Du hörst auf herum zu schlagen, dich zu wehren. Ruhe kehrt in dich ein. Du hörst auf zu denken, zu fühlen, lässt dich treiben. Dein Fuß tritt auf eine harte Oberfläche. Schlagartig ist alles zurück, die Geadnken, der Schmerz, die Verzweiflung. Du drückst dich so feste du kannst ab und schießt nach oben. Deine Schulter prallt heftig gegen den Rand der Badewanne, du rollst über den Rand und schlägst mit dem Kopf gegen die Toilette. Ein tiefes Dröhnen und ein heller Blitz ziehen durch deinen Kopf. Hustend und keuchend liegst du auf den Fliesen des Badezimmers.",
+    "en": ""
+  },
+  "choices": [
+    {
+      "text": {
+        "de": "Ich stehe auf",
+        "en": ""
+      },
+      "target": "c1s7",
+      "chapter": "chapter1"
+    }
+  ]
+}

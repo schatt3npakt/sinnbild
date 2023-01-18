@@ -1,0 +1,17 @@
+{
+  "id": "c1s2",
+  "text": {
+    "de": "Lorem ipsum",
+    "en": ""
+  },
+  "choices": [
+    {
+      "text": {
+        "de": "Lorem Ipsum",
+        "en": ""
+      },
+      "target": "c1s1",
+      "chapter": "chapter1"
+    }
+  ]
+}

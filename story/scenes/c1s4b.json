@@ -1,0 +1,17 @@
+{
+  "id": "c1s4b",
+  "text": {
+    "de": "Irgendetwas stimmt hier nicht. Du zögerst, dann ziehst du dich wieder in dein Zimmer zurück. Immerhin funktioniert hier das Licht noch. Du schließt die Tür und setzt dich auf dein Bett. Eine Weile lang sitzt du da und überdenkst deine Situation. Du wartest darauf, dass sich deine Eltern wundern, wo du bleibst und dich holen kommen. Aber nichts passiert. Du sitzt, und wartest, und eine Stunde vergeht.Das bringt dich jetzt auch nicht weiter. Vielleicht solltest du es doch noch mal im Flur versuchen. Du stehst vom Bett auf und begibst dich zur Tür.",
+    "en": ""
+  },
+  "choices": [
+    {
+      "text": {
+        "de": "Dein Zimmer verlassen",
+        "en": ""
+      },
+      "target": "c1s4",
+      "chapter": "chapter1"
+    }
+  ]
+}

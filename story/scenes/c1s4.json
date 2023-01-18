@@ -1,0 +1,33 @@
+{
+  "id": "c1s4",
+  "text": {
+    "de": "Der Flur ist stockdunkel. Im gesamten Haus ist es totenstill und kalt. Keine Schritte, kein Geschirrklimpern, kein leises Tuscheln von unten wie in den letzten Jahren. Das schwache Licht aus deinem Zimmer verliert sich schnell in der Dunkelheit. Du kannst grade noch die Tür zum Zimmer deiner Eltern erkennen, vielleicht noch die ersten Stufen der Treppe. Je länger du in der Dunkelheit stehst, desto mehr beschleicht dich ein sehr beunruhigendes Gefühl. Du solltest das Licht anmachen. Oder vielleicht kannst du deine Eltern rufen?",
+    "en": ""
+  },
+  "choices": [
+    {
+      "text": {
+        "de": "Das Licht anmachen",
+        "en": ""
+      },
+      "target": "c1s5",
+      "chapter": "chapter1"
+    },
+    {
+      "text": {
+        "de": "Deine Eltern rufen",
+        "en": ""
+      },
+      "target": "c1s4a",
+      "chapter": "chapter1"
+    },
+    {
+      "text": {
+        "de": "In dein Zimmer zurück gehen",
+        "en": ""
+      },
+      "target": "c1s4b",
+      "chapter": "chapter1"
+    }
+  ]
+}

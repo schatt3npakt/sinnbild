@@ -1,0 +1,13 @@
+{
+  "firstWikiEntry": {
+    "id": "firstWikiEntry",
+    "title": {
+      "de": "Erster Wikieintrag",
+      "en": "First wiki entry"
+    },
+    "description": {
+      "de": "Das ist der erste Eintrag in das Spielewiki",
+      "en": "This is the first entry into the game's wiki"
+    }
+  }
+}

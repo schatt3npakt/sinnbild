@@ -1,0 +1,25 @@
+{
+  "id": "c1s5a",
+  "text": {
+    "de": "Du kannst die Treppe kaum erkennen. Die Stufen schrauben sich in die Dunkelheit unter dir. Du kannst das Ergeschoss von hier oben nicht sehen. Als du dich an die Kante der obersten Stufe stellst, hallt ein lautes Knarzen durch das Haus. Ein leises Knarzen scheint zu antworten. Es hört sich an, als würde jemand am Fuß der Treppe stehen. Und dich leise beobachten, dich aus der Finsternis heraus anstarren. Es ist vermutlich keine gute Idee, die Treppe im Dunkeln runterzugehen.",
+    "en": ""
+  },
+  "choices": [
+    {
+      "text": {
+        "de": "Das Zimmer deiner Eltern untersuchen",
+        "en": ""
+      },
+      "target": "c1s5b",
+      "chapter": "chapter1"
+    },
+    {
+      "text": {
+        "de": "Den Flur entlang gehen",
+        "en": ""
+      },
+      "target": "c1s6",
+      "chapter": "chapter1"
+    }
+  ]
+}

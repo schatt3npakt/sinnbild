@@ -1,0 +1,46 @@
+{
+  "options": {
+    "de": "Optionen",
+    "en": "Options"
+  },
+  "fullScreenOff": {
+    "de": "Vollbildschirm einschalten",
+    "en": "Activate fullscreen"
+  },
+  "fullScreenOn": {
+    "de": "Vollbildschirm ausschalten",
+    "en": "Deactivate fullscreen"
+  },
+  "displayOptions": {
+    "de": "Anzeigeoptionen",
+    "en": "Display options"
+  },
+  "languageOptions": {
+    "de": "Spracheinstellungen",
+    "en": "Language options"
+  },
+  "resetProgress": {
+    "de": "Fortschritt zurücksetzen",
+    "en": "Reset progress"
+  },
+  "reallyResetProgress": {
+    "de": "Fortschritt wirklich zurücksetzen?",
+    "en": "Really reset progress?"
+  },
+  "visuals": {
+    "de": "Darstellung",
+    "en": "Visuals"
+  },
+  "disableAnimatedLayers": {
+    "de": "Animierte Ebenen im Hauptmenü deaktivieren",
+    "en": "Disable animated layers in main menu"
+  },
+  "enableAnimatedLayers": {
+    "de": "Animierte Ebenen im Hauptmenü aktivieren",
+    "en": "Enable animated layers in main menu"
+  },
+  "theme": {
+    "de": "Theme",
+    "en": "Theme"
+  }
+}

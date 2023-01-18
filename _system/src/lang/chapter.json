@@ -1,0 +1,10 @@
+{
+  "chapterSelection": {
+    "de": "Kapitelauswahl",
+    "en": "Chapter selection"
+  },
+  "thisChapterHasNotBeenUnlocked": {
+    "de": "Dieses Kapitel wurde noch nicht freigeschaltet.",
+    "en": "This chapter has not been unlocked yet."
+  }
+}

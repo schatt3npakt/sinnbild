@@ -1,0 +1,30 @@
+{
+  "id": "scene1",
+  "headline": {
+    "de": "Scene 1",
+    "en": "Scene 1"
+  },
+  "text": {
+    "de": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati ullam ad provident, commodi quaerat molestias quo nisi fuga? <br/><br/> Id nulla odit debitis ipsum enim laudantium, doloribus autem facilis quidem cupiditate! <br/><br/> ??firstWikiEntry??",
+    "en": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati ullam ad provident, commodi quaerat molestias quo nisi fuga? <br/><br/> Id nulla odit debitis ipsum enim laudantium, doloribus autem facilis quidem cupiditate! <br/><br/> ??firstWikiEntry??"
+  },
+  "choices": [
+    {
+      "text": {
+        "de": "Option 1",
+        "en": "Option 1"
+      },
+      "target": "scene1",
+      "chapter": "chapter1"
+    },
+    {
+      "text": {
+        "de": "Option 2",
+        "en": "Option 2"
+      },
+      "target": "scene2",
+      "chapter": "chapter2",
+      "achievement": "firstAchievement"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "projectKey": "heiligabend",
+  "title": {
+    "de": "Heiligabend",
+    "en": "Heiligabend"
+  },
+  "description": {
+    "de": "Heiligabend ist eine Horrorgeschichte.",
+    "en": "Heiligabend is a horror story."
+  },
+  "features": [
+    "chapters",
+    "achievements",
+    "about"
+  ],
+  "about": {
+    "de": "Diese Geschichte setzt auf das sinnbild-Projekt auf. Sie wurde von <a href='https://twitter.com/thebitheart'>bitheart</a> geschrieben.",
+    "en": "This story was made using the sinnbild project. It was written by <a href='https://twitter.com/thebitheart'>bitheart</a>."
+  },
+  "firstTheme": "midnight",
+  "themes": [
+    {
+      "id": "candycane",
+      "title": {
+        "de": "Zuckerstangen",
+        "en": "Candycane"
+      }
+    },
+    {
+      "id": "bell",
+      "title": {
+        "de": "Glocken",
+        "en": "Bells"
+      }
+    },
+    {
+      "id": "midnight",
+      "title": {
+        "de": "Mitternacht",
+        "en": "Midnight"
+      }
+    }
+  ],
+  "contentWarnings": [
+    {
+      "de": "Gewaltdarstellungen",
+      "en": "Descriptions of violence"
+    },
+    {
+      "de": "Religiöse Themen",
+      "en": "Religious themes"
+    }
+  ],
+  "firstChapter": "chapter1",
+  "chapters": [
+    "chapter1"
+  ],
+  "firstScene": "c1s1",
+  "scenes": [
+    "c1s1",
+    "c1s2a",
+    "c1s2b",
+    "c1s3",
+    "c1s4",
+    "c1s4a",
+    "c1s4b",
+    "c1s5",
+    "c1s5a",
+    "c1s5b",
+    "c1s6",
+    "c1s6a",
+    "c1s6b",
+    "c1s7",
+    "c1s8",
+    "c1s8a",
+    "c1s8a2",
+    "c1s8b"
+  ],
+  "firstWikiEntry": "firstWikiEntry",
+  "languages": [
+    "de",
+    "en"
+  ]
+}
