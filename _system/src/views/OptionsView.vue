@@ -40,12 +40,14 @@
       <div class="options-category">
         <HeadlineLevel2>{{text.visuals[storyStore.language]}}</HeadlineLevel2>
 
-        <button v-if="storyStore.options.disableAnimatedLayers === false" class="btn" @click="handleAnimatedLayersButton()">
-          {{text.disableAnimatedLayers[storyStore.language]}}
-        </button>
-        <button v-else class="btn" @click="handleAnimatedLayersButton()">
-          {{text.enableAnimatedLayers[storyStore.language]}}
-        </button>
+        <template v-if="storyStore.options.noAnimationsInMainMenu === false">
+          <button v-if="storyStore.options.disableAnimatedLayers === false" class="btn" @click="handleAnimatedLayersButton()">
+            {{text.disableAnimatedLayers[storyStore.language]}}
+          </button>
+          <button v-else class="btn" @click="handleAnimatedLayersButton()">
+            {{text.enableAnimatedLayers[storyStore.language]}}
+          </button>
+        </template>
       </div>
 
       <div class="options-category" v-if="storyData.themes.length >= 2">

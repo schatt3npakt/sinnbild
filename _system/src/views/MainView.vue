@@ -1,6 +1,6 @@
 <template>
   <div>
-    <AnimatedBackground v-if="storyStore.options.disableAnimatedLayers === false" />
+    <AnimatedBackground v-if="storyStore.options.disableAnimatedLayers === false && storyStore.options.noAnimationsInMainMenu === false" />
 
     <h1 v-html="storyData.title[storyStore.language]"></h1>
 

@@ -22,6 +22,7 @@ const initialAppstate = {
     current: storyService.firstWikiEntry,
   },
   options: {
+    noAnimationsInMainMenu: storyService.noAnimationsInMainMenu,
     disableAnimatedLayers: false,
     currentTheme: storyService.firstTheme
   },

@@ -1,54 +1,44 @@
 {
-  "projectKey": "heiligabend",
+  "projectKey": "projectkey",
   "title": {
-    "de": "Heiligabend",
-    "en": "Heiligabend"
+    "de": "Titel der Geschichte",
+    "en": "Story title"
   },
   "description": {
-    "de": "Heiligabend ist eine Horrorgeschichte.",
-    "en": "Heiligabend is a horror story."
+    "de": "Beschreibung der Geschichte",
+    "en": "Story description"
   },
   "features": [
     "chapters",
     "achievements",
+    "wiki",
     "about"
   ],
   "about": {
-    "de": "Diese Geschichte setzt auf das sinnbild-Projekt auf. Sie wurde von <a href='https://twitter.com/thebitheart'>bitheart</a> geschrieben.",
-    "en": "This story was made using the sinnbild project. It was written by <a href='https://twitter.com/thebitheart'>bitheart</a>."
+    "de": "Lorem Ipsum",
+    "en": "Lorem Ipsum"
   },
-  "firstTheme": "midnight",
+  "firstTheme": "theme1",
   "themes": [
     {
-      "id": "candycane",
+      "id": "theme1",
       "title": {
-        "de": "Zuckerstangen",
-        "en": "Candycane"
+        "de": "Theme 1",
+        "en": "Theme 1"
       }
     },
     {
-      "id": "bell",
+      "id": "theme2",
       "title": {
-        "de": "Glocken",
-        "en": "Bells"
-      }
-    },
-    {
-      "id": "midnight",
-      "title": {
-        "de": "Mitternacht",
-        "en": "Midnight"
+        "de": "Theme 2",
+        "en": "Theme 2"
       }
     }
   ],
   "contentWarnings": [
     {
-      "de": "Gewaltdarstellungen",
-      "en": "Descriptions of violence"
-    },
-    {
-      "de": "Religiöse Themen",
-      "en": "Religious themes"
+      "de": "Inhaltstyp",
+      "en": "Content type"
     }
   ],
   "firstChapter": "chapter1",
@@ -57,28 +47,12 @@
   ],
   "firstScene": "c1s1",
   "scenes": [
-    "c1s1",
-    "c1s2a",
-    "c1s2b",
-    "c1s3",
-    "c1s4",
-    "c1s4a",
-    "c1s4b",
-    "c1s5",
-    "c1s5a",
-    "c1s5b",
-    "c1s6",
-    "c1s6a",
-    "c1s6b",
-    "c1s7",
-    "c1s8",
-    "c1s8a",
-    "c1s8a2",
-    "c1s8b"
+    "c1s1"
   ],
   "firstWikiEntry": "firstWikiEntry",
   "languages": [
     "de",
     "en"
-  ]
+  ],
+  "noAnimationsInMainMenu": true
 }

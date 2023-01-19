@@ -1,13 +1,13 @@
 :root {
-  --storytitle-font-size: 3.5rem;
-  --scenetitle-font-size: 2.75rem;
+  --storytitle-font-size: 2.5rem;
+  --scenetitle-font-size: 2.5rem;
   --h1-font-size: 2rem;
   --h2-font-size: 1.5rem;
-  --main-font-size: 1.33rem;
+  --main-font-size: 1.2rem;
   --hint-font-size: 1rem;
-  --main-font-family: "Times New Roman";
-  --headline-font-family: "Playfair Display";
-  --logo-font-family: "Mountains of Christmas";
+  --main-font-family: sans-serif;
+  --headline-font-family: serif;
+  --logo-font-family: sans-serif;
 
   /* Default Theme Colors */
   --primary-color-dark: rgb(0, 0, 0);
@@ -30,18 +30,18 @@
   }
 }
 
-.candycane {
-  --primary-color-dark: rgb(167, 12, 12);
-  --primary-color-dark-0: rgba(167, 12, 12, 0);
-  --primary-color-dark-10: rgba(167, 12, 12, 0.1);
-  --primary-color-dark-50: rgba(167, 12, 12, 0.50);
+.theme1 {
+  --primary-color-dark: rgb(0, 0, 0);
+  --primary-color-dark-0: rgba(0, 0, 0, 0);
+  --primary-color-dark-10: rgba(0, 0, 0, 0.10);
+  --primary-color-dark-50: rgba(0, 0, 0, 0.50);
   --primary-color-light: rgb(255, 255, 255);
   --primary-color-light-0: rgba(255, 255, 255, 0);
   --primary-color-light-25: rgba(255, 255, 255, 0.25);
   --primary-color-light-50: rgba(255, 255, 255, 0.50);
 }
 
-.bell {
+.theme2 {
   --primary-color-dark: rgb(151, 137, 15);
   --primary-color-dark-0: rgba(151, 137, 15, 0);
   --primary-color-dark-10: rgba(151, 137, 15, 0.1);
@@ -50,45 +50,4 @@
   --primary-color-light-0: rgba(255, 255, 255, 0);
   --primary-color-light-25: rgba(255, 255, 255, 0.25);
   --primary-color-light-50: rgba(255, 255, 255, 0.50);
-}
-
-.midnight {
-  --primary-color-dark: rgb(26, 26, 26);
-  --primary-color-dark-0: rgba(26, 26, 26, 0);
-  --primary-color-dark-10: rgba(26, 26, 26, 0.10);
-  --primary-color-dark-50: rgba(26, 26, 26, 0.50);
-  --primary-color-light: rgb(255, 255, 255);
-  --primary-color-light-0: rgba(255, 255, 255, 0);
-  --primary-color-light-25: rgba(255, 255, 255, 0.25);
-  --primary-color-light-50: rgba(255, 255, 255, 0.50);
-}
-
-@font-face {
-  font-family: 'Mountains of Christmas';
-  font-style: normal;
-  font-weight: 400;
-  src: local(''),
-       url('./assets/fonts/mountains-of-christmas-v20-latin-regular.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
-       url('./assets/fonts/mountains-of-christmas-v20-latin-regular.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
-}
-
-/* playfair-display-regular - latin */
-@font-face {
-  font-family: 'Playfair Display';
-  font-style: normal;
-  font-display: swap;
-  font-weight: 400;
-  src: local(''),
-       url('./assets/fonts/playfair-display-v30-latin-regular.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
-       url('./assets/fonts/playfair-display-v30-latin-regular.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
-}
-/* playfair-display-700 - latin */
-@font-face {
-  font-family: 'Playfair Display';
-  font-style: normal;
-  font-display: swap;
-  font-weight: 700;
-  src: local(''),
-       url('./assets/fonts/playfair-display-v30-latin-700.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
-       url('./assets/fonts/playfair-display-v30-latin-700.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }

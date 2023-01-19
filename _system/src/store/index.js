@@ -1,6 +1,5 @@
 import { defineStore } from "pinia";
 import router from "../router";
-import "../gamepadService";
 import { loadStateFromStorage, saveStateToStorage, resetApplicationProgress } from "./persistenceService";
 
 const storyData = require("../../../story/config.json")

@@ -27,6 +27,7 @@ export default class StoryService {
     this.firstScene = storyData.firstScene;
     this.firstWikiEntry = storyData.firstWikiEntry;
     this.firstTheme = storyData.firstTheme;
+    this.noAnimationsInMainMenu = storyData.noAnimationsInMainMenu;
     this.storyLanguages = storyData.languages;
     this.storyThemes = storyData.themes;
     this.chapterData = buildChapterData();

@@ -1,5 +1,5 @@
 {
-  "id": "scene1",
+  "id": "c1s1",
   "headline": {
     "de": "Scene 1",
     "en": "Scene 1"
@@ -14,7 +14,7 @@
         "de": "Option 1",
         "en": "Option 1"
       },
-      "target": "scene1",
+      "target": "c1s1",
       "chapter": "chapter1"
     },
     {
@@ -22,7 +22,7 @@
         "de": "Option 2",
         "en": "Option 2"
       },
-      "target": "scene2",
+      "target": "c1s1",
       "chapter": "chapter2",
       "achievement": "firstAchievement"
     }
