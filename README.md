@@ -23,37 +23,3 @@ If you would like to learn more, read through the [Documentation](./docs/sinnbil
 ## Your story
 
 It's a good idea to keep notes on the characters, places, and events of your story. If you would like to document your story, feel free edit the [Story Docs](/docs/story/index.md) template!
-
-___
-
-## Project setup
-
-### Switch to node 18
-```
-cd _system
-nvm use
-```
-
-### Set up the project via npm
-```
-cd _system
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-cd _system
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-cd _system
-npm run build
-```
-
-### Lints and fixes files
-```
-cd _system
-npm run lint
-```
