@@ -8,5 +8,5 @@ mkcert -version
 # create local certs, install dependencies
 cd _system
 npm i
-mkcert -cert-file cert.pem -key-file key.pem localhost 127.0.0.1
+mkcert -cert-file ./ssl/cert.pem -key-file ./ssl/key.pem localhost 127.0.0.1
 npm run serve

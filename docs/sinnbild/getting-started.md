@@ -1,15 +1,15 @@
 # Getting started
 
-Um ein Sinnbild-Projekt zu entwickeln, muss auf deinem System nodeJS v18 installiert sein. Ich empfehle die Verwaltung deiner node-Version mit [NVM](https://github.com/nvm-sh/nvm).
+Für die lokale Entwicklung eines Sinnbild-Projektes müssen die folgenden Binaries installiert sein:
+
+- nodeJS v18
+- mkcert (Für lokale Entwicklungszertifikate)
+
+Um das Projekt einzurichten und den lokalen Entwicklungsserver zu starten, kann das init-Skript gestartet werden.
 
 ```bash
-cd _system
 nvm use
+./init.sh
+
 ```
 
-Jetzt kannst du Dependencies installieren und dann den Development-Server starten.
-
-```bash
-npm i
-npm run serve
-```
