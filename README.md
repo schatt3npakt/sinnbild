@@ -18,9 +18,22 @@ The project is divided into to folders, **_system** and **story**.
 The **_system** folder contains the vue-app you start for development and bundle for production.
 The **story** folder contains the configuration and content of your story. Also included is a **theme.css** that sets a few easily editable styling variables, such as fonts and colors. If you don't want to alter the projects core functionality, you should be fine with just editing the files in the story folder.
 
-Further information is found inside the **docs** folder.
+If you would like to learn more, read through the [Documentation](./docs/sinnbild/index.md).
+
+## Your story
+
+It's a good idea to keep notes on the characters, places, and events of your story. If you would like to document your story, feel free edit the [Story Docs](/docs/story/index.md) template!
+
+___
 
 ## Project setup
+
+### Switch to node 18
+```
+cd _system
+nvm use
+```
+
 ### Set up the project via npm
 ```
 cd _system
