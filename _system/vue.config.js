@@ -13,5 +13,9 @@ module.exports = defineConfig({
     client: {
       webSocketURL: 'https://0.0.0.0:5123/ws',
     },
+  },
+  pwa: {
+    name: "Sinnbild",
+    themeColor: "#000000",
   }
 });

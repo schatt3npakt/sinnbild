@@ -1,3 +1,4 @@
+.DS_STORE
 _system/node_modules
 _system/.DS_Store
 _system/ssl/*
