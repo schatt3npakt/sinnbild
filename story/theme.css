@@ -31,10 +31,10 @@
 }
 
 .theme1 {
-  --primary-color-dark: rgb(0, 0, 0);
-  --primary-color-dark-0: rgba(0, 0, 0, 0);
-  --primary-color-dark-10: rgba(0, 0, 0, 0.10);
-  --primary-color-dark-50: rgba(0, 0, 0, 0.50);
+  --primary-color-dark: rgb(21, 22, 44);
+  --primary-color-dark-0: rgba(21, 22, 44, 0);
+  --primary-color-dark-10: rgba(21, 22, 44, 0.10);
+  --primary-color-dark-50: rgba(21, 22, 44, 0.50);
   --primary-color-light: rgb(255, 255, 255);
   --primary-color-light-0: rgba(255, 255, 255, 0);
   --primary-color-light-25: rgba(255, 255, 255, 0.25);
