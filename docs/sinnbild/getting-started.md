@@ -10,6 +10,8 @@ Um das Projekt einzurichten und den lokalen Entwicklungsserver zu starten, kann 
 ```bash
 nvm use
 ./init.sh
-
 ```
 
+Deine Story ist dann in deinem Browser unter https://localhost:5123 erreichbar und du kannst mit dem Schreiben loslegen.
+
+Weiter geht's mit der Struktur deines Projekts im Abschnitt [Projektstruktur](./project-structure.md).
