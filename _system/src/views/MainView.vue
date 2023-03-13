@@ -66,7 +66,7 @@ h1 {
 
 * {
   text-align: center;
-  text-underline-offset: 3px;
+  text-underline-offset: 4px;
 }
 
 ul {
