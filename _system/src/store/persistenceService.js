@@ -36,7 +36,18 @@ export const loadStateFromStorage = () => {
 }
 
 export const saveStateToStorage = (state) => {
-  localStorage.setItem(storageKey, JSON.stringify(state));
+  const cleaedState = {
+    languageChanged: state.languageChanged,
+    language: state.language,
+    storyWasStarted: state.storyWasStarted,
+    chapters: state.chapters,
+    achievements: state.achievements,
+    scenes: state.scenes,
+    wiki: state.wiki,
+    options: state.options
+  }
+
+  localStorage.setItem(storageKey, JSON.stringify(cleaedState));
 }
 
 export const resetApplicationProgress = () => {
