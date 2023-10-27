@@ -1,9 +1,9 @@
 # Sinnbild
 
-Sinnbild is a framework for modern, easy-to-use Choose your own Adventure games and is built on top of [VueJS](https://vuejs.org/). Diese Dokumentation führt durch die Struktur des Frameworks, beschreibt erste Schritte und dient als Nachschlagwerk für Mechaniken und Begriffe.
+Sinnbild ist ein Framework für Choose-Your-Own-Adventure-Spiele. Es ist mit [VueJS](https://vuejs.org/) gebaut. Diese Dokumentation führt durch die Struktur des Frameworks, beschreibt erste Schritte und dient als Nachschlagwerk für Mechaniken und Begriffe.
 
 # Inhaltsverzeichnis
-1. [Getting started](getting-started.md)
-2. [Projektstruktur](./project-structure.md)
-3. [Story-Konfiguration](./story-configuration.md)
-3. [Story-Features](./story-features.md)
+1. [Getting started](1-getting-started.md)
+2. [Projektstruktur](./2-project-structure.md)
+3. [Story-Konfiguration](./3-story-configuration.md)
+4. [Release](./4-release.md)

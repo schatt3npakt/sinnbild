@@ -12,6 +12,6 @@ nvm use
 ./init.sh
 ```
 
-Deine Story ist dann in deinem Browser unter https://localhost:5123 erreichbar und du kannst mit dem Schreiben loslegen.
+Deine Story ist dann in deinem Browser unter https://localhost:5123 erreichbar und du kannst fast mit dem Schreiben deiner Geschichte loslegen.
 
 Weiter geht's mit der Struktur deines Projekts im Abschnitt [Projektstruktur](./project-structure.md).

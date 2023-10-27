@@ -6,7 +6,7 @@ Wenn du nur deine Geschichte schreiben willst und keine weiteren Funktionen ben�
 
 ## Der Story-Ordner
 
-Dieser Ordner erhält alle Konfigurationen, Szenen und Kapitel für deine Story. Für alle nötigen Komponenten sind entsprechende Vorlagendateien enthalten.
+Dieser Ordner erhält alle Konfigurationen, Szenen und Kapitel für deine Story. Für alle nötigen Komponenten sind entsprechende Vorlagendateien enthalten. Deine Geschichte wird über eine Reihe von JSON-Dataien konfiguriert, die beim Bauen der Vue-Anwendung geladen werden. 
 
 Die Hauptkonfiguration ist die **config.json**. Dort werden generelle Einstellungen wie der Titel deiner Geschichte, aktive Szenen, Sprachen etc. beschrieben. Eine genaue Beschreibung der Optionen findest du unter [Story-Konfiguration](story-configuration.md).
 
