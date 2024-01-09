@@ -1,9 +1,10 @@
 # Getting started
 
+Dieses Repo ist als Template-Repo eingerichtet. Um mit deiner Geschichte zu starten, erstelle als erstes ein neues Repo mit dieser Vorlage. Danach kannst du das Repo lokal klonen.
+
 Für die lokale Entwicklung eines Sinnbild-Projektes müssen die folgenden Binaries installiert sein:
 
 - nodeJS v18
-- mkcert (Für lokale Entwicklungszertifikate)
 
 Um das Projekt einzurichten und den lokalen Entwicklungsserver zu starten, kann das init-Skript gestartet werden.
 
