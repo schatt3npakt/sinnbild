@@ -5,7 +5,6 @@ sinnbild is an open-source template project for choose-your-own-adventure-style 
 - Support for mouse, touch, keyboard and gamepad navigation
 - Automated story progress saving (using local storage)
 - An elegant and simple default theme with light and dark mode
-- 
 - Multi-language-support (german and english as default)
 - Chapter- and achievement systems
 - A wiki system for quick reference to story-related terms
