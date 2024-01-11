@@ -1,6 +1,6 @@
 <template>
   <header v-if="isLanguages === false" :class="{transparent: isMainMenu}">
-    <nav>
+    <nav aria-label="header navigation">
       <ul>
         <li class="main">
           <span v-if="isMainMenu">
