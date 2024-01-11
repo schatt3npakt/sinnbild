@@ -146,10 +146,6 @@ export default {
     handleResetButton () {
       if (this.reallyReset === false) {
         this.reallyReset = true
-
-        window.setTimeout(() => {
-          this.reallyReset = false
-        }, 2000)
       } else {
         this.storyStore.handleResetButton()
         router.push("/")
