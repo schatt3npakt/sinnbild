@@ -15,4 +15,10 @@ h1 {
   margin-bottom: 16px;
   text-align: left;
 }
+
+@media (min-width: 720px) {
+  h1 {
+    margin-bottom: 64px;
+  } 
+}
 </style>

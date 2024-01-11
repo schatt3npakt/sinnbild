@@ -37,17 +37,15 @@
         </div>
       </div>
 
-      <div class="options-category">
+      <div v-if="storyStore.options.noAnimationsInMainMenu === false" class="options-category">
         <HeadlineLevel2>{{text.visuals[storyStore.language]}}</HeadlineLevel2>
 
-        <template v-if="storyStore.options.noAnimationsInMainMenu === false">
-          <button v-if="storyStore.options.disableAnimatedLayers === false" class="btn" @click="handleAnimatedLayersButton()">
-            {{text.disableAnimatedLayers[storyStore.language]}}
-          </button>
-          <button v-else class="btn" @click="handleAnimatedLayersButton()">
-            {{text.enableAnimatedLayers[storyStore.language]}}
-          </button>
-        </template>
+        <button v-if="storyStore.options.disableAnimatedLayers === false" class="btn" @click="handleAnimatedLayersButton()">
+          {{text.disableAnimatedLayers[storyStore.language]}}
+        </button>
+        <button v-else class="btn" @click="handleAnimatedLayersButton()">
+          {{text.enableAnimatedLayers[storyStore.language]}}
+        </button>
       </div>
 
       <div class="options-category" v-if="storyData.themes.length >= 2">
@@ -171,6 +169,12 @@ export default {
 <style scoped>
 .options-category {
   margin-bottom: 32px;
+}
+
+@media (min-width: 720px) {
+  .options-category {
+    margin-bottom: 64px;
+  }
 }
 
 .btn {
