@@ -1,0 +1,21 @@
+{
+  "id": "c1s2",
+  "headline": {
+    "de": "Szene 2",
+    "en": "Scene 2"
+  },
+  "text": {
+    "de": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati ullam ad provident, commodi quaerat molestias quo nisi fuga",
+    "en": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati ullam ad provident, commodi quaerat molestias quo nisi fuga"
+  },
+  "choices": [
+    {
+      "text": {
+        "de": "Option 1",
+        "en": "Option 1"
+      },
+      "target": "c1s1",
+      "chapter": "chapter1"
+    }
+  ]
+}

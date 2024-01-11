@@ -258,7 +258,7 @@
 
   main {
     padding: 15px 15px 64px 15px;
-    max-width: 600px;
+    max-width: 900px;
     margin: auto;
   }
 

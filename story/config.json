@@ -47,7 +47,8 @@
   ],
   "firstScene": "c1s1",
   "scenes": [
-    "c1s1"
+    "c1s1",
+    "c1s2"
   ],
   "firstWikiEntry": "firstWikiEntry",
   "languages": [

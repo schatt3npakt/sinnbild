@@ -9,5 +9,16 @@
       "de": "Das ist der erste Eintrag in das Spielewiki",
       "en": "This is the first entry into the game's wiki"
     }
+  },
+  "secondWikiEntry": {
+    "id": "secondWikiEntry",
+    "title": {
+      "de": "Zweiter Wikieintrag",
+      "en": "Second wiki entry"
+    },
+    "description": {
+      "de": "Das ist der erste Eintrag in das Spielewiki",
+      "en": "This is the first entry into the game's wiki"
+    }
   }
 }

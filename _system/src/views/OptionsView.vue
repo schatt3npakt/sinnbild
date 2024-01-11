@@ -18,7 +18,7 @@
       <div class="options-category">
         <HeadlineLevel2>{{text.displayOptions[storyStore.language]}}</HeadlineLevel2>
 
-        <button class="btn" type="button" @click="handleFullscreenToggle()">{{fullScreenText}}</button>
+        <button class="btn active" type="button" @click="handleFullscreenToggle()">{{fullScreenText}}</button>
       </div>
 
       <div class="options-category" v-if="storyData.languages.length >= 2">
@@ -67,7 +67,7 @@
      <div class="options-category">
         <HeadlineLevel2>{{text.resetProgress[storyStore.language]}}</HeadlineLevel2>
 
-        <button class="btn" v-if="reallyReset === false" @click="handleResetButton()">
+        <button class="btn active" v-if="reallyReset === false" @click="handleResetButton()">
           {{text.resetProgress[storyStore.language]}}
         </button>
         <button class="btn" v-else @click="handleResetButton()">
