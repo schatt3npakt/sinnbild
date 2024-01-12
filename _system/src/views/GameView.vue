@@ -1,8 +1,9 @@
 <template>
-  <div class="scene-outer">
+  <div class="scene-outer" :class="[sceneData[storyStore.scenes.current].image.reverseAlign ? 'reverse' : '']">
     <img
       v-if="sceneData[storyStore.scenes.current].image"
-      :src="sceneData[storyStore.scenes.current].image"
+      aria-hidden="true"
+      :src="sceneData[storyStore.scenes.current].image.src"
       width="300"
       height="500"
       :class="[storyStore.chapters.current, showTransition ? 'transition' : '']"
@@ -188,6 +189,10 @@
   .scene-outer {
     display: flex;
     gap: 32px;
+  }
+
+  .scene-outer.reverse {
+    flex-direction: row-reverse;
   }
 
   img {

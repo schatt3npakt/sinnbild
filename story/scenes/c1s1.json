@@ -4,7 +4,10 @@
     "de": "Szene 1",
     "en": "Scene 1"
   },
-  "image": "https://via.placeholder.com/300x500",
+  "image": {
+    "src": "https://via.placeholder.com/300x500",
+    "reverseAlign": false
+  },
   "text": {
     "de": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati ullam ad provident, commodi quaerat molestias quo nisi fuga? <br/><br/> Id nulla odit debitis ipsum enim laudantium, doloribus autem facilis quidem cupiditate! <br/><br/> ??firstWikiEntry??",
     "en": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati ullam ad provident, commodi quaerat molestias quo nisi fuga? <br/><br/> Id nulla odit debitis ipsum enim laudantium, doloribus autem facilis quidem cupiditate! <br/><br/> ??firstWikiEntry??"
