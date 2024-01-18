@@ -1,5 +1,5 @@
 <template>
-  <div class="scene-outer" :class="[sceneData[storyStore.scenes.current].image.reverseAlign ? 'reverse' : '']">
+  <div class="scene-outer" :class="[sceneData[storyStore.scenes.current].image?.reverseAlign ? 'reverse' : '']">
     <img
       v-if="sceneData[storyStore.scenes.current].image"
       aria-hidden="true"
