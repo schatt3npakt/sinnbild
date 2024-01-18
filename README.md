@@ -11,7 +11,7 @@ sinnbild is an open-source template project for choose-your-own-adventure-style 
 - screenreader accessibility
 - An app-like PWA experience
 
-You can preview this story at [https://schatt3npakt.github.io/sinnbild/](https://schatt3npakt.github.io/sinnbild/) or the respective link generated for your project. More information can be found in the docs [Release section](./docs/4-release.md).
+You can preview this story at [https://schatt3npakt.github.io/sinnbild/](https://schatt3npakt.github.io/sinnbild/) or the respective link generated for your project. More information can be found in the docs [Release section](./docs/sinnbild/4-release.md).
 
 If you would like to learn more, read through the [Documentation](./docs/sinnbild/index.md).
 
