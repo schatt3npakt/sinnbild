@@ -1,8 +1,10 @@
 import { defineStore } from "pinia";
 import router from "../router";
 import { loadStateFromStorage, saveStateToStorage, resetApplicationProgress } from "./persistenceService";
+import StoryService from "@/storyService";
 
 const storyData = require("../../../story/config.json")
+const achievementsText = require("../lang/achievements.json")
 
 export const useStoryStore = defineStore("story", {
   state: () => loadStateFromStorage(),
@@ -19,6 +21,24 @@ export const useStoryStore = defineStore("story", {
       if (target.achievement) {
         if (this.achievements.revealed.includes(target.achievement) === false) {
           this.achievements.revealed.push(target.achievement);
+
+          const achievementInformation = document.createElement("div");
+          const achievementsWrapper = document.getElementById("achievementsWrapper");
+          const storyService = new StoryService();
+
+          achievementInformation.innerHTML = `
+            <p>${storyService.achievementsData[target.achievement].title[this.language]} ${achievementsText.wasUnlocked[this.language]}</p>
+            <button></button>
+          `
+          achievementsWrapper.appendChild(achievementInformation);
+
+          const buttons = achievementsWrapper.querySelectorAll("button");
+          
+          for (const thisButton of buttons) {
+            thisButton.addEventListener("click", () => {
+              achievementsWrapper.innerHTML = ""
+            })
+          }
         }
       }
 

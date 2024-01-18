@@ -6,5 +6,9 @@
   "achievementHasNotBeenUnlocked": {
     "de": "Diese Errungenschaft wurde noch nicht freigeschaltet",
     "en": "This achievement has not been unlocked"
+  },
+  "wasUnlocked": {
+    "de": "wurde freigeschaltet!",
+    "en": "was unlocked!"
   }
 }
